@@ -35,7 +35,7 @@ namespace SearchPages
             WebBrowser wb = (WebBrowser)sender;
             Regex searchRegex = null;
           
-            if (searchText.StartsWith("regex:"))
+            if (searchText.StartsWith("regex:")) // 查找模式为正则表达式
             {
                 searchRegex = new Regex(searchText.Substring(6), RegexOptions.IgnoreCase);
                 Match madeMade = searchRegex.Match(bodyInnerHtml);
