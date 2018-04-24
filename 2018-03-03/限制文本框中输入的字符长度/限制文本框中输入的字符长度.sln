@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2036
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "限制文本框中输入的字符长度", "限制文本框中输入的字符长度\限制文本框中输入的字符长度.csproj", "{AC319844-1C5C-47A4-A3F1-B98663A0C166}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AC319844-1C5C-47A4-A3F1-B98663A0C166}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AC319844-1C5C-47A4-A3F1-B98663A0C166}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AC319844-1C5C-47A4-A3F1-B98663A0C166}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AC319844-1C5C-47A4-A3F1-B98663A0C166}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F25B0B1D-A0D6-443E-8B87-D0EB0C6D0BD4}
+	EndGlobalSection
+EndGlobal

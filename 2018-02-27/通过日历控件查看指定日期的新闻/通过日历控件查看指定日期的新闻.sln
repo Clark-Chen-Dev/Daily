@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2036
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "通过日历控件查看指定日期的新闻", "通过日历控件查看指定日期的新闻\通过日历控件查看指定日期的新闻.csproj", "{5212C965-22D1-4A7A-9CC3-FF8A0D585C5D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5212C965-22D1-4A7A-9CC3-FF8A0D585C5D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5212C965-22D1-4A7A-9CC3-FF8A0D585C5D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5212C965-22D1-4A7A-9CC3-FF8A0D585C5D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5212C965-22D1-4A7A-9CC3-FF8A0D585C5D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F3B1B500-E33D-4E9E-A926-FB016AC39D58}
+	EndGlobalSection
+EndGlobal

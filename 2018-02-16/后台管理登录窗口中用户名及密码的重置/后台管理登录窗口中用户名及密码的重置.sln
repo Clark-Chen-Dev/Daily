@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2010
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "后台管理登录窗口中用户名及密码的重置", "后台管理登录窗口中用户名及密码的重置\后台管理登录窗口中用户名及密码的重置.csproj", "{A5D74CA7-5F38-4053-BC04-E7FA54582FD4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A5D74CA7-5F38-4053-BC04-E7FA54582FD4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A5D74CA7-5F38-4053-BC04-E7FA54582FD4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A5D74CA7-5F38-4053-BC04-E7FA54582FD4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A5D74CA7-5F38-4053-BC04-E7FA54582FD4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C21D9758-72F3-4CFD-BA3A-4B9B54A08200}
+	EndGlobalSection
+EndGlobal

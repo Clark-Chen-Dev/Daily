@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2010
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "仓库与盒子的学问——数据类型与变量", "仓库与盒子的学问——数据类型与变量\仓库与盒子的学问——数据类型与变量.csproj", "{7B27C147-47D7-46F9-B292-CA9BC1FE3B9B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7B27C147-47D7-46F9-B292-CA9BC1FE3B9B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7B27C147-47D7-46F9-B292-CA9BC1FE3B9B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7B27C147-47D7-46F9-B292-CA9BC1FE3B9B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7B27C147-47D7-46F9-B292-CA9BC1FE3B9B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3152CF97-CC39-40F2-AA89-FF222FEB10A3}
+	EndGlobalSection
+EndGlobal

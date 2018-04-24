@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2036
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "显示密码格式文本", "显示密码格式文本\显示密码格式文本.csproj", "{BC170B26-A52A-4694-BA4B-6BA80839130B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BC170B26-A52A-4694-BA4B-6BA80839130B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BC170B26-A52A-4694-BA4B-6BA80839130B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BC170B26-A52A-4694-BA4B-6BA80839130B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BC170B26-A52A-4694-BA4B-6BA80839130B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2209FA6A-5DFB-43B4-BFFB-65DC0FDC0926}
+	EndGlobalSection
+EndGlobal
