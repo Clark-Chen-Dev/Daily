@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2036
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "使用绑定表达式高亮显示搜索关键字", "使用绑定表达式高亮显示搜索关键字\使用绑定表达式高亮显示搜索关键字.csproj", "{C9BC5380-9B67-4655-A308-CD3A474B8361}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C9BC5380-9B67-4655-A308-CD3A474B8361}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C9BC5380-9B67-4655-A308-CD3A474B8361}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C9BC5380-9B67-4655-A308-CD3A474B8361}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C9BC5380-9B67-4655-A308-CD3A474B8361}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {45A17B7C-F527-4272-8282-840797E7CCCB}
+	EndGlobalSection
+EndGlobal
