@@ -19,7 +19,6 @@ namespace SearchPages
         private int startPageNo;
         private int endPageNo;
         private string searchText;
-        private List<string> urls;
         private string queryHtmlPrefix = string.Empty;
 
         public SearchPagesForm()
@@ -71,7 +70,6 @@ namespace SearchPages
 
         private void goButton_Click(object sender, EventArgs e)
         {
-            urls = new List<string>();
             outputTextBox.Clear();
             startPageNo = 0;
             endPageNo = 0;
