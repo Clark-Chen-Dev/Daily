@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2036
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "绑定DataTable对象显示银行月利息及本息", "绑定DataTable对象显示银行月利息及本息\绑定DataTable对象显示银行月利息及本息.csproj", "{309F9DD7-22B1-451C-BD2A-F9334F05E9CE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{309F9DD7-22B1-451C-BD2A-F9334F05E9CE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{309F9DD7-22B1-451C-BD2A-F9334F05E9CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{309F9DD7-22B1-451C-BD2A-F9334F05E9CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{309F9DD7-22B1-451C-BD2A-F9334F05E9CE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5DDA6DD1-735C-4A8E-8882-A5F15F44FC2A}
+	EndGlobalSection
+EndGlobal
