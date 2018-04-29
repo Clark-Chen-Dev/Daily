@@ -35,8 +35,8 @@ namespace 获取GridView控件中隐藏的列值
                 bool isChecked = ((CheckBox)row.FindControl("cbChecked")).Checked;
                 if (isChecked)
                 {
-                    int hideColumnIdValue = (int)GridView1.DataKeys[row.RowIndex].Value;
-                    Response.Write(hideColumnIdValue + "<br/>");
+                    int id = (int)GridView1.DataKeys[row.RowIndex].Value;
+                    Response.Write(id + "<br/>");
                 } // end if
             } // end foreach
 
