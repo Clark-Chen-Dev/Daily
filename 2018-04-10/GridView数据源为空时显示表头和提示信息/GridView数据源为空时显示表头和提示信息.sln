@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2036
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GridView数据源为空时显示表头和提示信息", "GridView数据源为空时显示表头和提示信息\GridView数据源为空时显示表头和提示信息.csproj", "{A0924BE3-C149-48D9-878A-E27AD1D90F8A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A0924BE3-C149-48D9-878A-E27AD1D90F8A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A0924BE3-C149-48D9-878A-E27AD1D90F8A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A0924BE3-C149-48D9-878A-E27AD1D90F8A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A0924BE3-C149-48D9-878A-E27AD1D90F8A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5715A3D9-D00E-4731-ADF1-C9561A58AA42}
+	EndGlobalSection
+EndGlobal
