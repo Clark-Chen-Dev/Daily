@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2036
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GridView合并行或列单元格的5种通用方式", "GridView合并行或列单元格的5种通用方式\GridView合并行或列单元格的5种通用方式.csproj", "{93B14B0F-1AE4-4DE0-9E8A-58D4F6C55FEE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{93B14B0F-1AE4-4DE0-9E8A-58D4F6C55FEE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{93B14B0F-1AE4-4DE0-9E8A-58D4F6C55FEE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{93B14B0F-1AE4-4DE0-9E8A-58D4F6C55FEE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{93B14B0F-1AE4-4DE0-9E8A-58D4F6C55FEE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {40E194E6-6828-4CE5-B8E7-F8120AF18F52}
+	EndGlobalSection
+EndGlobal
