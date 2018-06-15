@@ -61,7 +61,7 @@ namespace 格式化订货金额和订单日期并进行绑定
         {
             if (e.Row.RowType == DataControlRowType.DataRow)
             {
-                decimal totalMoney = Convert.ToDecimal(DataBinder.Eval(e.Row.DataItem, "订货金额"));
+                decimal totalMoney = Convert.ToDecimal(((DataRowView)e.Row.DataItem)["订货金额"]); 
                 //累加订货金额并赋给变量 orderTotal。
                 orderTotal += totalMoney;
             }
